@@ -7,7 +7,7 @@ Amazon VPC (Virtual Private Cloud) allows you to create a **private, isolated ne
 
 🔹 **Key Components of VPC:**
 
-* 🏠 **Subnets** – Divide your network into public and private sections
+* 🏠 **Subnets** – Divide your network into public and private sections 
 * 🌐 **Internet Gateway (IGW)** – Enables internet access for public subnets
 * 🔐 **Security Groups** – Act as virtual firewalls at instance level
 * 🛡️ **Network ACLs** – Additional security layer at subnet level
