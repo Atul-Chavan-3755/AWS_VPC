@@ -1,6 +1,6 @@
 🚀 **Understanding Amazon VPC (Virtual Private Cloud) – Simplified**
 
-In my AWS learning journey, I explored **Amazon VPC**, one of the most important networking services in cloud computing.
+In my AWS learning journey, I explored **Amazon VPC**, one of the most important networking services in cloud computing. 
 
 🔹 **What is VPC?**
 Amazon VPC (Virtual Private Cloud) allows you to create a **private, isolated network** inside AWS where you can launch and manage resources securely.
