@@ -12,7 +12,7 @@ Amazon VPC (Virtual Private Cloud) allows you to create a **private, isolated ne
 * 🔐 **Security Groups** – Act as virtual firewalls at instance level
 * 🛡️ **Network ACLs** – Additional security layer at subnet level
 * 📡 **Route Tables** – Control traffic flow within the network
-
+ 
 🔹 **Types of Subnets:**
 
 * Public Subnet → Accessible via internet
