@@ -1,4 +1,4 @@
-🚀 **Understanding Amazon VPC (Virtual Private Cloud) – Simplified**
+## **Understanding Amazon VPC (Virtual Private Cloud) – Simplified**
 
 In my AWS learning journey, I explored **Amazon VPC**, one of the most important networking services in cloud computing. 
 
