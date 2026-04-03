@@ -1,6 +1,5 @@
-🔐 AWS Security Group Configuration  
-📌 Overview 
-
+##🔐 AWS Security Group Configuration  
+**📌 Overview   
 This project demonstrates how to create and manage an AWS Security Group to control inbound and outbound traffic for cloud resources such as Amazon EC2 instances.
 
 A Security Group acts as a virtual firewall that allows you to define rules for permitting or restricting traffic based on ports, protocols, and IP ranges.
