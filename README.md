@@ -15,7 +15,7 @@ Amazon VPC (Virtual Private Cloud) allows you to create a **private, isolated ne
  
 🔹 **Types of Subnets:**
 
-* Public Subnet → Accessible via internet
+* Public Subnet → Accessible via internet 
 * Private Subnet → No direct internet access
 
 🔹 **Why VPC is Important?**
