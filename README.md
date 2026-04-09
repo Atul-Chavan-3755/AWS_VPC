@@ -4,7 +4,7 @@ This project demonstrates how to create and manage an AWS Security Group to cont
 A Security Group acts as a virtual firewall that allows you to define rules for permitting or restricting traffic based on ports, protocols, and IP ranges.
 
 🎯 Objectives  
-Configure inbound and outbound rules  
+Configure inbound and outbound rules   
 Allow secure access (SSH, HTTP, HTTPS)  
 Restrict unauthorized traffic  
 Apply Security Group to EC2 instances  
